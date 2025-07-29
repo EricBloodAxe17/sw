@@ -52,7 +52,7 @@ A simple, responsive stopwatch built using **HTML**, **CSS**, and **JavaScript**
 
 ## 🌐 Live Demo
 
-Check out the live working demo here: 👉 [Stopwatch Demo](https://your-live-demo-link.com)
+Check out the live working demo here: 👉 [Stopwatch Demo](https://ericbloodaxe17.github.io/sw/)
 
 
 ---
